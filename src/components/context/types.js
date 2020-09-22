@@ -1,0 +1,10 @@
+export const GET_BHAJAN = 'GET_BHAJAN';
+export const SET_BHAJAN = 'SET_BHAJAN';
+export const RANDOM_BHAJAN = 'RANDOM_BHAJAN';
+export const SEARCH_BHAJAN = 'SEARCH_BHAJANS';
+export const CLEAR_BHAJANS = 'CLEAR_BHAJANS';
+export const SET_ALERT = 'SET_ALERT';
+export const REMOVE_ALERT = 'REMOVE_ALERT';
+export const SEARCH_TEXT = 'SEARCH_TEXT';
+export const SET_TEXT = 'SET_TEXT';
+export const SUGGEST_BHAJAN = 'SUGGEST_BHAJAN';
